@@ -13,7 +13,6 @@ if [[ $? != 0 ]];then
 	exit 0
 fi
 
-
 ping 8.8.8.8 -W 1 -s 1 -c 1 > /dev/null
 if [[ $? == 0 ]];then
     echo $GREEN $BLACK $PREFIX "INTERNET"
