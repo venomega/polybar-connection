@@ -1,6 +1,9 @@
 # polybar-connection
 polybar applet for showing connection status
 
+![pic1](.a.png)
+
+![pic2](.b.png)
 
 ## Install
 
