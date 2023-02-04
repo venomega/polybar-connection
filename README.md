@@ -18,9 +18,14 @@ format-padding = 1
 ```
 
 3. Add `connection` module to any `module-*` option on polybar's `config.ini`, example code:
+
+
 ```
 modules-center = connection
 ```
 
 4. Restart polybar
 
+## Config
+
+Feel free to chage the ips on `connection.sh` to your needs :)
